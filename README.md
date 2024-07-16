@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-<h2> certification (enter image of springboard certificate here)
+<h2> Certification </h2>
+
+- [Springboard Certificate of Completion](https://drive.google.com/file/d/1VFLRPDwAVZhaZHNQH9AIxwpRp_yHXLr9/view?usp=share_link)
 
 <h2> 🤳 Connect with me:</h2>
 
