@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
+- <b>IMDb Movies</b> (https://github.com/zarrap/IMDB_Movies)
+- <b>COVID-19 Analysis</b> (https://github.com/zarrap/covid_analysis) 
+
 <h2> Certification </h2>
 
 - [Springboard Certificate of Completion](https://drive.google.com/file/d/1VFLRPDwAVZhaZHNQH9AIxwpRp_yHXLr9/view?usp=share_link)
